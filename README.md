@@ -5,4 +5,4 @@ All variables are set inside the file "run.py".
 
 Usage:
 
-    "python run.py".
+    python run.py
